@@ -1,6 +1,7 @@
 # finitione-task
 
-This is a Tasks system app, a table view and list of tasks, implementing, pagination, filters, statistics & sorts.
+This is a Tasks system app, a table view and list of tasks.
+implementing, pagination, filters, statistics & sorts.
 built using Laravel and React, DB use of MySQL.
 
 ## Installation
