@@ -1,0 +1,17 @@
+label{
+margin-right: 0.5rem;
+}
+
+@media only screen and (max-width:801px) {
+    .filterTab{
+        width: 30%!important;
+        margin-left: 3rem!important;
+    }
+    .filters{
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        margin-top: 1rem!important;
+    }
+}
