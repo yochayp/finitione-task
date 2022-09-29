@@ -7,9 +7,11 @@ built using Laravel and React, DB use of MySQL.
 ## Installation
 
 * Clone the repository with git clone
-* Create .env and edit database credentials there
+* Create .env file and edit database credentials there
 * Run composer install
-
+```console
+composer i
+```
 ## Launch the application
 
 * Run command
